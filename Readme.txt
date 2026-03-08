@@ -11,4 +11,4 @@ They compare detected devices with a database of authorized access points.
 
 If a device that is not registered appears, the system alerts the administrator!!!
 this is used to clear the files
-1111
+
